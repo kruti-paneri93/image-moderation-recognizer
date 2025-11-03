@@ -34,4 +34,6 @@ A Streamlit web app that uses **AWS Rekognition** to detect and flag inappropria
     AWS_DEFAULT_REGION=us-east-1
     ```
 4. Run the app:
+    ```bash
     Streamlit run app.py
+    ```
