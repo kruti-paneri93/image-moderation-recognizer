@@ -14,7 +14,8 @@ A Streamlit web app that uses **AWS Rekognition** to detect and flag inappropria
 - **Python** — Core logic
 
 ## 🖼️ Demo
-![Demo Screenshot](assets/smart-image-moderator.png)
+![Not Safe- Demo Screenshot](assets/smart-image-moderator.png)
+![Safe- Demo Screenshot](assets/safe-demo.png)
 
 ## ⚙️ Setup Instructions
 
