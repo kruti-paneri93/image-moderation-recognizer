@@ -22,3 +22,16 @@ A Streamlit web app that uses **AWS Rekognition** to detect and flag inappropria
    ```bash
    git clone https://github.com/kruti-paneri93/image-moderation-recognizer.git
    cd smart-image-moderator
+   ```
+2. Install Dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Create a .env file:
+    ```bash
+    AWS_ACCESS_KEY_ID=your_aws_key
+    AWS_SECRET_ACCESS_KEY=your_aws_secret
+    AWS_DEFAULT_REGION=us-east-1
+    ```
+4. Run the app:
+    Streamlit run app.py
